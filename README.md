@@ -1,7 +1,1 @@
-This is a test project
-https://github.com/dzy6489/test/pic/2.png
-![image](https://github.com/dzy6489/test/pic/2.png)
-![image](https://github.com/dzy6489/test/pic/1.jpg)
-![image](https://github.com/dzy6489/test/pic/add.php.png)
-
-
+代码已经截图放到pic文件夹中，请动手写自己的工程，并且上传到github，然后将运行的结果截图放到README.md
